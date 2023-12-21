@@ -1,6 +1,7 @@
 # Student-management-System
 
-Introduction\n
+Introduction
+
 A Student Management System is a comprehensive software application that
 facilitates educational institutions in managing their day-to-day operations. It is
 designed to integrate and automate various administrative tasks of educational
@@ -15,7 +16,8 @@ It will help to manage the following tasks:
 3. Update or modify a student’s data.
 4. Delete the record of a student.
 
-The Project Details\n
+The Project Details
+
 The graphical interface of this project is managed by the Tkinter library. The PyM ySQL
 package is used here to manage database operations using python.
 The project folder contains three python files, main.py, custom.py,
